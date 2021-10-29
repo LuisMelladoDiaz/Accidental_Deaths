@@ -9,7 +9,7 @@ Name: Luis
 
 Project structure
 
-Folder: Project 1
+Folder: Accidental_Deaths
 	Folder: data
 		Accidental_deaths.xlxs : Contains the data used in the project.
 	Folder: instructions
