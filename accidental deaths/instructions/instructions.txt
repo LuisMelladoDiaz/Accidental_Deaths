@@ -1,0 +1,8 @@
+Create the basic structure of the project.
+
+Fill in the README.md file with personal data, the project structure, the description of the dataset columns 
+and the implemented functions. Define a named tuple to store the data.
+
+Write in the main module a function that reads the data from the file and stores 
+it in a list of tuples. Write a test of this function in the test module, displaying on 
+the screen the total number of records read, the first 3 records read and the last 3 records read.
